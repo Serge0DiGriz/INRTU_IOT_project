@@ -8,8 +8,8 @@
 
 **Задачи:**
 1) Поиск информации.
-	- Похожие проекты
-	- Собственные наработки
+	- Похожие проекты (https://alexgyver.ru/moneybox_counter-arduino/)
+	- Собственные наработки (https://github.com/Serge0DiGriz/IOT_Alkhimov_SmartBank/tree/main/SmartBank%20(v1))
 2) Поиск компонентов.
 	- Составление списка
 	- Приобретение недостающих
